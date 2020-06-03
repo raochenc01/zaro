@@ -31,7 +31,6 @@
     "test:all": "node ./tests/run-tests.js",
     "test:component": "umi test ./src/components",
     "tsc": "tsc"
-
   },
   "husky": {
     "hooks": {
@@ -122,6 +121,5 @@
     "src/**/*.less",
     "config/**/*.js*",
     "scripts/**/*.js"
-  ],
-  "homepage":"./"
+  ]
 }
