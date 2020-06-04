@@ -2,8 +2,8 @@
   "name": "ant-design-pro",
   "version": "4.0.0",
   "private": true,
+  "homepage": "https://raochenc01.github.io/zaro.github.com",
   "description": "An out-of-box UI solution for enterprise applications",
-  "homepage": "/",
   "scripts": {
     "analyze": "cross-env ANALYZE=1 umi build",
     "build": "umi build",
